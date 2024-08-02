@@ -4,4 +4,4 @@ This project is live at [Quora-Clone](https://66ad337ba22e2ab4d6ea3661--thundero
 
 ### Screenshot of the site
 
-![Alt Text](https://github.com/Soumik16/Quora-Clone_React/blob/main/Screenshot%20(25).png)
+![Alt Text](https://raw.githubusercontent.com/Soumik16/Quora-Clone_React/main/Screenshot%20(25).png)
